@@ -14,7 +14,7 @@ public class Main {
         System.out.println(c.getArea());
 
         Rectangle d = new Rectangle(new Point(5,6),5,8);
-        
+
 
 
 
